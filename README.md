@@ -176,7 +176,7 @@ And then we add it to the scene:
 
 `scene.add(pointLight)`
 
-At this point, you should see a static globe if you open your HTML file in the browser. Let’s get to animating it!
+Let’s get to animating out globe!
 
 ## Creating the Animation
 
